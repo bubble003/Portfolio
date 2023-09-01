@@ -1,0 +1,28 @@
+[
+  {
+    "title": "ByteBliss ",
+    "imageSrc": "projects/project.png",
+    "description": "Blogging webiste to share and discover ideas.",
+    "skills": ["React", "Next.js", "MongoDb"],
+    "demo": "",
+    "source": "https://github.com/bubble003/ByteBliss"
+  },
+
+  {
+    "title": "ChatByte",
+    "imageSrc": "projects/project.png",
+    "description": "Supporting real time messaging to multiple users.",
+    "skills": ["React", "Firebase"],
+    "demo": "",
+    "source": "https://github.com/bubble003/ChatByte-webChat"
+  },
+
+  {
+    "title": "ChronoMark",
+    "imageSrc": "projects/project.png",
+    "description": "Chrome Extension that allows to add timestamps on YouTube Videos.",
+    "skills": ["Javascript"],
+    "demo": "",
+    "source": "https://github.com/bubble003/Chronomark"
+  }
+]
