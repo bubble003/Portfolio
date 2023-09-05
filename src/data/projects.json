@@ -1,7 +1,7 @@
 [
   {
     "title": "ByteBliss ",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/ByteBliss.png",
     "description": "Blogging webiste to share and discover ideas.",
     "skills": ["React", "Next.js", "MongoDb"],
     "demo": "",
@@ -10,7 +10,7 @@
 
   {
     "title": "ChatByte",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Chatbyte.png",
     "description": "Supporting real time messaging to multiple users.",
     "skills": ["React", "Firebase"],
     "demo": "",
@@ -19,7 +19,7 @@
 
   {
     "title": "ChronoMark",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Chronomark.png",
     "description": "Chrome Extension that allows to add timestamps on YouTube Videos.",
     "skills": ["Javascript"],
     "demo": "",

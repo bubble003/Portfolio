@@ -12,7 +12,7 @@ export const Hero = () => {
           Sonkusare
         </h1>
         <p className={styles.description}>
-          I'm a Frontend developer with experience in tech <br /> stack like
+          I'm a Frontend developer with experience in tech <br /> stack: 
           React.js, Next.js, Firebase and MongoDB.
         </p>
         <a
