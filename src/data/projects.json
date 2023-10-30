@@ -1,27 +1,32 @@
 [
   {
+    "title": "Cirlce",
+    "imageSrc": "projects/Circle.png",
+    "description": "Real time messaging to multiple users.",
+    "skills": [
+      "React",
+      "Node",
+      "Express.js",
+      "MongoDB",
+      "Socket.io"
+    ],
+    "demo": "",
+    "source": "https://github.com/bubble003/Circle"
+  },
+  {
     "title": "ByteBliss ",
     "imageSrc": "projects/ByteBliss.png",
     "description": "Blogging webiste to share and discover ideas.",
-    "skills": ["React", "Next.js", "MongoDb"],
+    "skills": ["React", "Next.js", "MongoDB", "JavaScript", "HTML", "CSS"],
     "demo": "",
     "source": "https://github.com/bubble003/ByteBliss"
-  },
-
-  {
-    "title": "ChatByte",
-    "imageSrc": "projects/Chatbyte.png",
-    "description": "Supporting real time messaging to multiple users.",
-    "skills": ["React", "Firebase"],
-    "demo": "",
-    "source": "https://github.com/bubble003/ChatByte-webChat"
   },
 
   {
     "title": "ChronoMark",
     "imageSrc": "projects/Chronomark.png",
     "description": "Chrome Extension that allows to add timestamps on YouTube Videos.",
-    "skills": ["Javascript"],
+    "skills": ["Javascript", "HTML", "CSS"],
     "demo": "",
     "source": "https://github.com/bubble003/Chronomark"
   }
