@@ -17,7 +17,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>MERN Stack Developer</h3>
               <p>
                 I'm a MERN Stack developer along with experience in Next.js and
                 building responsive,optimized & high performance sites.
